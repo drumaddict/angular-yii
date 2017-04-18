@@ -7,10 +7,10 @@ We included his library into our own Yii project startup library, [YiiBoilerplat
 
 To get started, checkout [http://yii-booster.clevertech.biz](http://yii-booster.clevertech.biz)!
 
-###Quick Start
+### Quick Start
 Clone the repo, `git clone git://github.com/clevertech/yiibooster.git`, or [download the latest release](https://github.com/clevertech/YiiBooster/zipball/master).
 
-###Widgets
+### Widgets
 
 The YiiBooster library includes:
 
@@ -64,13 +64,13 @@ The YiiBooster library includes:
     * Merge cells or columns
 
 
-###Contributing
+### Contributing
 Please submit all pull requests against *-wip branches. Thanks!
 
-###Bug tracker
+### Bug tracker
 If you find any bugs, please create an issue at [https://github.com/clevertech/YiiBooster/issues](https://github.com/clevertech/YiiBooster/issues)
 
-###License  
+### License  
 [![License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)  
 
